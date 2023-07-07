@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=어서오세요...&fontSize=90)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=milkteabread)](https://github.com/milkteabread)
 
@@ -12,15 +12,15 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
 
-### Hi there 👋
+## 일하고 싶다..! 깃허브에 남긴 글... 안타깝다 난 곧 일할 거니까 파이팅 👋
 ---
 
-**두껍게** <br>
-*기울임* <br>
-~~취소선~~ <br>
+**어렵다...** <br>
+*고되다...* <br>
+~~그치만 열심히.~~ <br>
 
-* 1반
-* 2번
+* 졸프 주제는 AR
+* C# 주로 사용했습니다 - !!
 - 1번
 - 2번
 
